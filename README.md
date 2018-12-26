@@ -32,7 +32,7 @@
 
 
 ### Фотографія з схемою знаходиться в даному файлі.
-Назва файлу *https://github.com/Rosovskyy/STM32AcceleratorGyroscope*
+Назва файлу _NokiaDisplay_
 
 ### License and copyright
 © Serhiy Rosovskyy, student of the Ukrainian Catholic University
