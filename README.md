@@ -32,6 +32,7 @@
 
 
 ### Фотографія з схемою знаходиться в даному файлі.
+Назва файлу *https://github.com/Rosovskyy/STM32AcceleratorGyroscope*
 
 ### License and copyright
 © Serhiy Rosovskyy, student of the Ukrainian Catholic University
